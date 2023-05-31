@@ -1,0 +1,9 @@
+port : "8000"
+
+db:
+  username: "todo"
+  password: "pass"
+  host: "localhost"
+  port: "5432"
+  dbname: "todo_db"
+  sslmode: "disable"
